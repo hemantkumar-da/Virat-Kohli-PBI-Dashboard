@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/d1c49b30-bde3-4007-8c19-f4efe6bc1c5d)
+
 # Virat-Kohli-PBI-Dashboard
 Celebrating Virat Kohli’s Birthday with a simple Data Visualization! 🎉 
 In honor of Virat Kohli’s birthday, I created a Power BI dashboard using ESPN Cricinfo data to showcase his career stats and accomplishments from 2008 to 2024.
