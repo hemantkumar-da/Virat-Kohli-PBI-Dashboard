@@ -2,8 +2,8 @@
 Celebrating Virat Kohli’s Birthday with a simple Data Visualization! 🎉 
 In honor of Virat Kohli’s birthday, I created a Power BI dashboard using ESPN Cricinfo data to showcase his career stats and accomplishments from 2008 to 2024.
 
-**💼 Tools Used: Power BI, Data Visualization, Data Analysis
-📝 Data Source: ESPN Cricinfo**
+**💼 Tools Used: Power BI, Data Visualization, Data Analysis, FIGMA (For Template design)
+📝 Data Source: ESPN Cricinfo** (**Excel sheets attached**)
 
 🏏 Career Overview
 **Matches and Runs using Cards:** With 538 matches across formats, Kohli has scored an astounding 27,134 runs with a batting average of 51.57. 
